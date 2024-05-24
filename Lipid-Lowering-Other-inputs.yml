@@ -1,0 +1,111 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/lipid-lowering-other-300mg---primary.py
+inputModule3:
+  class: File
+  path: python/lipid-lowering-other-750mg---primary.py
+inputModule4:
+  class: File
+  path: python/lipid-lowering-other-250mg---primary.py
+inputModule5:
+  class: File
+  path: python/lipid-lowering-other-1000mg---primary.py
+inputModule6:
+  class: File
+  path: python/lipid-lowering-other-fenofibrate---primary.py
+inputModule7:
+  class: File
+  path: python/orange-lipid-lowering-other---primary.py
+inputModule8:
+  class: File
+  path: python/lipid-lowering-other-colestyramine---primary.py
+inputModule9:
+  class: File
+  path: python/lipid-lowering-other-200mg---primary.py
+inputModule10:
+  class: File
+  path: python/lipid-lowering-other-267mg---primary.py
+inputModule11:
+  class: File
+  path: python/lipid-lowering-other-actavis---primary.py
+inputModule12:
+  class: File
+  path: python/lipid-lowering-other-400mg---primary.py
+inputModule13:
+  class: File
+  path: python/lipid-lowering-other-bristol---primary.py
+inputModule14:
+  class: File
+  path: python/lipid-lowering-other-625mg---primary.py
+inputModule15:
+  class: File
+  path: python/lipid-lowering-other-600mg---primary.py
+inputModule16:
+  class: File
+  path: python/lipid-lowering-other-seven---primary.py
+inputModule17:
+  class: File
+  path: python/lipid-lowering-other-160mg---primary.py
+inputModule18:
+  class: File
+  path: python/lipid-lowering-other-roche---primary.py
+inputModule19:
+  class: File
+  path: python/lipid-lowering-other-100mg---primary.py
+inputModule20:
+  class: File
+  path: python/lipid-lowering-other-500mg---primary.py
+inputModule21:
+  class: File
+  path: python/lipid-lowering-other-bezafibrate---primary.py
+inputModule22:
+  class: File
+  path: python/lipid-lowering-other-sugarfree---primary.py
+inputModule23:
+  class: File
+  path: python/lipid-lowering-other-hillcross---primary.py
+inputModule24:
+  class: File
+  path: python/lipid-lowering-other-colestipol---primary.py
+inputModule25:
+  class: File
+  path: python/lipid-lowering-other-micronised---primary.py
+inputModule26:
+  class: File
+  path: python/lipid-lowering-other-375mg---primary.py
+inputModule27:
+  class: File
+  path: python/lipid-lowering-other-pharmacia---primary.py
+inputModule28:
+  class: File
+  path: python/lipid-lowering-other-colestid---primary.py
+inputModule29:
+  class: File
+  path: python/lipid-lowering-other-aspartame---primary.py
+inputModule30:
+  class: File
+  path: python/lipid-lowering-other-abbott---primary.py
+inputModule31:
+  class: File
+  path: python/lipid-lowering-other-fournier---primary.py
+inputModule32:
+  class: File
+  path: python/lipid-lowering-other-powder---primary.py
+inputModule33:
+  class: File
+  path: python/lipid-lowering-other-pfizer---primary.py
+inputModule34:
+  class: File
+  path: python/lipid-lowering-other-niaspan---primary.py
+inputModule35:
+  class: File
+  path: python/nicotinic-lipid-lowering-other---primary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
